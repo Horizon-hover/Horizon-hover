@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 📂 My GitHub Repositories
 
 | Repository Name | Description | Link |
@@ -13,4 +11,5 @@
 | **NumberBaseConverter** | Java program to convert between Octal-Binary-Hexadecimal-Decimal | [🔗 GitHub](https://github.com/Horizon-hover/NumberBaseConverter) |
 | **OOPcConcept** | Object-Orientated Examples in C++ | [🔗 GitHub](https://github.com/Horizon-hover/OOPcConcept) |
 | **OOPexampleProg** | Java program showing examples of object-orientated programming (OOP) | [🔗 GitHub](https://github.com/Horizon-hover/OOPexampleProg) |
+| **Task_Management_System** | A Python-based Task Management System that demonstrates advanced programming skills and best practices. This program allows users to manage tasks with features like adding, viewing, marking as completed, deleting, saving, and loading tasks. | [🔗 GitHub](https://github.com/Horizon-hover/Task_Management_System) |
 | **Windows-Drive-Space-Scanner** | C++ program for scanning free space on attached drives. | [🔗 GitHub](https://github.com/Horizon-hover/Windows-Drive-Space-Scanner) |
